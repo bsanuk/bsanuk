@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Top Sneaky project. 
+- 🔭 I’m currently working on a Top Sneaky project 
 - 🌱 I’m currently learning about Next's new app router
 - 💬 Ask me about Next, React, Strapi
 - 📫 How to reach me: [@borasanuk](https://twitter.com/borasanuk)
